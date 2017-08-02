@@ -1,0 +1,4 @@
+bs4==0.0.1
+
+Chrome Webdriver
+requests==2.18.1
